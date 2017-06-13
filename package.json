@@ -1,6 +1,6 @@
 {
   "name": "webhooks-tester",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Express server which you can use for testing webhooks",
   "main": "index.js",
   "bin": {
