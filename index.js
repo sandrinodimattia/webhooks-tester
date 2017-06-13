@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const pino = require('pino');
 const ngrok = require('ngrok');
 const express = require('express');
