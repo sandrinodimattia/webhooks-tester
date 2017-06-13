@@ -1,0 +1,19 @@
+{
+  "name": "webhooks-tester",
+  "version": "1.0.0",
+  "description": "Simple Express server which you can use for testing webhooks",
+  "main": "index.js",
+  "bin": {
+    "webhooks-tester": "./index.js"
+  },
+  "author": "Sandrino Di Mattia",
+  "license": "MIT",
+  "dependencies": {
+    "absolute-url": "^1.2.2",
+    "body-parser": "^1.17.2",
+    "chalk": "^1.1.3",
+    "express": "^4.15.3",
+    "ngrok": "^2.2.9",
+    "pino": "^4.6.0"
+  }
+}
